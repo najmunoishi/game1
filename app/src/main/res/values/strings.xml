@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizMania</string>
+    <string name="Name">Name</string>
+    <string name="AlreadyAccount">Already have an account? <u>Click Here</u></string>
+    <string name="SignUp"> <u>SignUp</u></string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+
+</resources>
